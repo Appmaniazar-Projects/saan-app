@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "838368327211",
+    "firebase_url": "https://saan-app.firebaseio.com",
+    "project_id": "saan-app",
+    "storage_bucket": "saan-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838368327211:android:331098ff97f575e620dc6e",
+        "android_client_info": {
+          "package_name": "com.saan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838368327211-48gje0c18b5hahde9lpl3diiqhft0mg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUwdCiDn9BKPDVlxq9fjL3UDIboG-l5k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838368327211-48gje0c18b5hahde9lpl3diiqhft0mg1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "838368327211-9dlk7ib509ltr8qjafsi5kpj92igg163.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saan.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

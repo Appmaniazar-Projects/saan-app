@@ -1,0 +1,3 @@
+// PROFILE TYPES
+export const PROFILE_FETCH = 'PROFILE_FETCH';
+export const PROFILE_EDIT = 'PROFILE_EDIT';
